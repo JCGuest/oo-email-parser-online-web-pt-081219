@@ -15,4 +15,4 @@ class EmailAddressParser
     emailstring.split(/, | /).uniq
   end
 end
-
+ 
